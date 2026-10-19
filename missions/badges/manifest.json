@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "manifestVersion": 1,
+  "updatedAt": "2026-10-01T00:00:00Z",
+  "defaultLocale": "en",
+  "badges": [
+    {
+      "id": "2026-10",
+      "monthKey": "2026-10",
+      "availableFrom": "2026-10-01T00:00:00Z",
+      "availableUntil": "2026-11-01T00:00:00Z",
+      "minAppVersion": "1.2.7",
+      "asset": {
+        "svg": "https://cdn.streakrise.com/badges/2026-10/badge.svg"
+      },
+      "name": {
+        "en": "Spooking fest",
+        "fr": "Fête des frissons",
+        "es": "Fiesta del susto",
+        "it": "Festa dello spavento",
+        "pt": "Festa do susto",
+        "de": "Gruselfest",
+        "nl": "Griezelfeest",
+        "ro": "Petrecerea fricii"
+      },
+      "themeRest" : false,
+      "description": {
+      }
+    }
+  ]
+}
