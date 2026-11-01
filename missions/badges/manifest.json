@@ -23,9 +23,30 @@
         "nl": "Griezelfeest",
         "ro": "Petrecerea fricii"
       },
-      "themeRest" : false,
-      "description": {
-      }
+      "themeRest": false,
+      "description": {}
+    },
+    {
+      "id": "2026-11",
+      "monthKey": "2026-11",
+      "availableFrom": "2026-11-01T00:00:00Z",
+      "availableUntil": "2026-12-01T00:00:00Z",
+      "minAppVersion": "1.2.7",
+      "asset": {
+        "svg": "https://cdn.streakrise.com/missions/badges/assets/november26.svg"
+      },
+      "name": {
+        "en": "Autumn's Spark",
+        "fr": "L'étincelle d'automne",
+        "es": "La chispa del otoño",
+        "it": "La scintilla d'autunno",
+        "pt": "A faísca do outono",
+        "de": "Herbstfunke",
+        "nl": "Herfstvonk",
+        "ro": "Scânteia toamnei"
+      },
+      "themeRest": false,
+      "description": {}
     }
   ]
 }
